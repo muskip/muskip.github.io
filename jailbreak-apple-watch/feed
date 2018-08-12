@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+
+<channel>
+	<title>Jailbreak Apple Watch &#8211; iPhone Hacks | #1 iPhone, iPad, iOS Blog</title>
+	<atom:link href="http://www.iphonehacks.com/jailbreak-apple-watch/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.iphonehacks.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 12 Aug 2018 14:23:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">20983903</site>	<item>
+		<title>First Apple Watch Jailbreak Demoed at Def Con 25</title>
+		<link>http://www.iphonehacks.com/2017/07/first-apple-watch-jailbreak-demoed-def-con-25.html</link>
+		<comments>http://www.iphonehacks.com/2017/07/first-apple-watch-jailbreak-demoed-def-con-25.html#respond</comments>
+		<pubDate>Fri, 28 Jul 2017 03:40:09 +0000</pubDate>
+		<dc:creator><![CDATA[Rajesh Pandey]]></dc:creator>
+				<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Jailbreak Apple Watch]]></category>
+		<category><![CDATA[Absinthe Jailbreak iPad 2]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[DefCon]]></category>
+		<category><![CDATA[Jailbreak]]></category>
+
+		<guid isPermaLink="false">http://www.iphonehacks.com/?p=112093</guid>
+		<description><![CDATA[<img style="float: left; margin-right: 10px"  src="http://www.iphonehacks.com/wp-content/uploads/2017/07/Jailbreak-Apple-Watch-Defcon-194x129.jpg"> 
+At Def Con 25, the world&#8217;s longest running and largest underground hacking conference, Hacker Max Bazaliy of the Fried Apple Team has demonstrated a jailbreak for the Apple Watch 3 running watchOS 3. While the Apple Watch has been on the market for more than a couple of years now, a jailbreak has never been demonstrated publicly for it before.   
+ <a href="http://www.iphonehacks.com/2017/07/first-apple-watch-jailbreak-demoed-def-con-25.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>http://www.iphonehacks.com/2017/07/first-apple-watch-jailbreak-demoed-def-con-25.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">112093</post-id>	</item>
+		<item>
+		<title>U.S. government makes jailbreaking of smartphones, tablets and TVs legal</title>
+		<link>http://www.iphonehacks.com/2015/10/jailbreaking-of-smartphones-tablets-tvs-legal.html</link>
+		<comments>http://www.iphonehacks.com/2015/10/jailbreaking-of-smartphones-tablets-tvs-legal.html#respond</comments>
+		<pubDate>Wed, 28 Oct 2015 10:17:45 +0000</pubDate>
+		<dc:creator><![CDATA[Killian Bell]]></dc:creator>
+				<category><![CDATA[Jailbreak Apple TV]]></category>
+		<category><![CDATA[Jailbreak Apple Watch]]></category>
+		<category><![CDATA[Jailbreak iOS]]></category>
+		<category><![CDATA[Car]]></category>
+		<category><![CDATA[Digital Millennium Copyright Act]]></category>
+		<category><![CDATA[DMCA]]></category>
+		<category><![CDATA[Jailbreak]]></category>
+		<category><![CDATA[jailbreaking]]></category>
+		<category><![CDATA[Library of Congress]]></category>
+		<category><![CDATA[smartphone]]></category>
+		<category><![CDATA[Tablet]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">http://www.iphonehacks.com/?p=92332</guid>
+		<description><![CDATA[<img style="float: left; margin-right: 10px"  src="http://www.iphonehacks.com/wp-content/uploads/2014/04/jailbreak-iphone-194x129.jpg"> 
+The U.S. Library of Congress has granted Digital Millennium Copyright Act (DMCA) exemptions for jailbreaking tablets, smart TVs, and other all-purpose computing devices. This gives users who like to tinker the ability to modify their software without breaching copyright law.  
+ <a href="http://www.iphonehacks.com/2015/10/jailbreaking-of-smartphones-tablets-tvs-legal.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>http://www.iphonehacks.com/2015/10/jailbreaking-of-smartphones-tablets-tvs-legal.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">92332</post-id>	</item>
+		<item>
+		<title>Apple Watch hacked to run UIKit based native app</title>
+		<link>http://www.iphonehacks.com/2015/06/apple-watch-hacked-to-run-truly-native-app.html</link>
+		<comments>http://www.iphonehacks.com/2015/06/apple-watch-hacked-to-run-truly-native-app.html#respond</comments>
+		<pubDate>Fri, 12 Jun 2015 17:12:09 +0000</pubDate>
+		<dc:creator><![CDATA[Gautam Prabhu]]></dc:creator>
+				<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Jailbreak Apple Watch]]></category>
+		<category><![CDATA[watchOS 2]]></category>
+		<category><![CDATA[Hack Apple Watch]]></category>
+
+		<guid isPermaLink="false">http://www.iphonehacks.com/?p=86454</guid>
+		<description><![CDATA[<img style="float: left; margin-right: 10px"  src="http://www.iphonehacks.com/wp-content/uploads/2015/06/apple-watch-hack-native-apps-1-194x129.jpg"> Well-known Cydia developers, Steve Troughton-Smith, Adam Bell and Cydia Founder, Jay Freeman aka saurik have successfully hacked the Apple Watch on watchOS 2 to run UIKit &amp; SceneKit apps on the device.  
+ <a href="http://www.iphonehacks.com/2015/06/apple-watch-hacked-to-run-truly-native-app.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>http://www.iphonehacks.com/2015/06/apple-watch-hacked-to-run-truly-native-app.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">86454</post-id>	</item>
+		<item>
+		<title>TaiG team to focus on iOS 9 jailbreak, have no plans to jailbreak Apple Watch</title>
+		<link>http://www.iphonehacks.com/2015/06/taig-team-to-focus-on-ios-9-jailbreak-have-no-plans-to-jailbreak-apple-watch.html</link>
+		<comments>http://www.iphonehacks.com/2015/06/taig-team-to-focus-on-ios-9-jailbreak-have-no-plans-to-jailbreak-apple-watch.html#respond</comments>
+		<pubDate>Sat, 06 Jun 2015 14:11:36 +0000</pubDate>
+		<dc:creator><![CDATA[Andy]]></dc:creator>
+				<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Jailbreak Apple Watch]]></category>
+		<category><![CDATA[Jailbreak iOS 9, iOS 9.0.1, iOS 9.0.2]]></category>
+		<category><![CDATA[TaiG Jailbreak]]></category>
+		<category><![CDATA[TaiG]]></category>
+		<category><![CDATA[TaiG iOS 8.3 jailbreak]]></category>
+		<category><![CDATA[TaiG iOS 8.4 jailbreak]]></category>
+		<category><![CDATA[TaiG iOS 9 jailbreak]]></category>
+
+		<guid isPermaLink="false">http://www.iphonehacks.com/?p=86067</guid>
+		<description><![CDATA[<img style="float: left; margin-right: 10px"  src="http://www.iphonehacks.com/wp-content/uploads/2014/11/taig-jailbreak-banner-e1417250542736-194x129.png"> 
+Earlier today, Pangu team successfully demoed an iOS 8.3 jailbreak, which could be released after iOS 8.4 is released to the public later this month.  
+ <a href="http://www.iphonehacks.com/2015/06/taig-team-to-focus-on-ios-9-jailbreak-have-no-plans-to-jailbreak-apple-watch.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>http://www.iphonehacks.com/2015/06/taig-team-to-focus-on-ios-9-jailbreak-have-no-plans-to-jailbreak-apple-watch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">86067</post-id>	</item>
+		<item>
+		<title>Apple Watch hacked to run a web browser</title>
+		<link>http://www.iphonehacks.com/2015/05/apple-watch-hacked-to-run-web-browser.html</link>
+		<comments>http://www.iphonehacks.com/2015/05/apple-watch-hacked-to-run-web-browser.html#respond</comments>
+		<pubDate>Sun, 10 May 2015 16:09:34 +0000</pubDate>
+		<dc:creator><![CDATA[Andy]]></dc:creator>
+				<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Jailbreak Apple Watch]]></category>
+
+		<guid isPermaLink="false">http://www.iphonehacks.com/?p=85000</guid>
+		<description><![CDATA[<img style="float: left; margin-right: 10px"  src="http://www.iphonehacks.com/wp-content/uploads/2015/05/apple-watch-hacked-194x129.jpg"> 
+Nicholas Allegra a.k.a Comex seems to have hacked Apple Watch. He has published a video which shows a web browser running on Apple Watch.  
+ <a href="http://www.iphonehacks.com/2015/05/apple-watch-hacked-to-run-web-browser.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>http://www.iphonehacks.com/2015/05/apple-watch-hacked-to-run-web-browser.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">85000</post-id>	</item>
+		<item>
+		<title>Top 5 Reasons I want to Jailbreak Apple Watch</title>
+		<link>http://www.iphonehacks.com/2015/04/top-reasons-to-jailbreak-apple-watch.html</link>
+		<comments>http://www.iphonehacks.com/2015/04/top-reasons-to-jailbreak-apple-watch.html#respond</comments>
+		<pubDate>Thu, 30 Apr 2015 18:58:27 +0000</pubDate>
+		<dc:creator><![CDATA[Gautam Prabhu]]></dc:creator>
+				<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Jailbreak Apple Watch]]></category>
+		<category><![CDATA[Apple Watch Hacks]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[jailbreak Apple Watch]]></category>
+
+		<guid isPermaLink="false">http://www.iphonehacks.com/?p=84553</guid>
+		<description><![CDATA[<img style="float: left; margin-right: 10px"  src="http://www.iphonehacks.com/wp-content/uploads/2015/04/jailbreak-apple-watch-194x129.jpg"> 
+Apple Watch finally went on sale last week. Apple&#8217;s first foray into the wearable world reminds me a lot of the iPhone. It is revolutionary and easily the best smartwatch in the market, but it has some limitations.  
+ <a href="http://www.iphonehacks.com/2015/04/top-reasons-to-jailbreak-apple-watch.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>http://www.iphonehacks.com/2015/04/top-reasons-to-jailbreak-apple-watch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">84553</post-id>	</item>
+		<item>
+		<title>How to get Apple Watch Widgets on your iPhone [Jailbreak]</title>
+		<link>http://www.iphonehacks.com/2015/04/how-to-get-apple-watch-widgets-on-your-iphone-jailbreak.html</link>
+		<comments>http://www.iphonehacks.com/2015/04/how-to-get-apple-watch-widgets-on-your-iphone-jailbreak.html#respond</comments>
+		<pubDate>Sun, 12 Apr 2015 18:21:38 +0000</pubDate>
+		<dc:creator><![CDATA[Cody]]></dc:creator>
+				<category><![CDATA[Apple Watch]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Jailbreak Apple Watch]]></category>
+		<category><![CDATA[Jailbreak Apps and Tweaks]]></category>
+		<category><![CDATA[jailbreak apps and tweaks]]></category>
+
+		<guid isPermaLink="false">http://www.iphonehacks.com/?p=83627</guid>
+		<description><![CDATA[<img style="float: left; margin-right: 10px"  src="http://www.iphonehacks.com/wp-content/uploads/2015/04/watchwidget3-194x129.png"> Some of the widgets on the Apple Watch look pretty nice. So of course, someone has already made them for the iPhone. Let&#8217;s take a look at how to set up these widgets and get them working for you.  
+ <a href="http://www.iphonehacks.com/2015/04/how-to-get-apple-watch-widgets-on-your-iphone-jailbreak.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>http://www.iphonehacks.com/2015/04/how-to-get-apple-watch-widgets-on-your-iphone-jailbreak.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">83627</post-id>	</item>
+	</channel>
+</rss>
